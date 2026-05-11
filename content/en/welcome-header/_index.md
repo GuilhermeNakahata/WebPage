@@ -1,11 +1,15 @@
 ---
 headless: true
-title: "welcome to my blog!"
+title: "Welcome to my website!"
 intro: 
-  - "Place Holder!"
-image: "/cat.png"
+  - "Graduated in Computer Science from the State University of Paraná (UNESPAR), Apucarana Campus, and holds a Master's degree in Computer Science with a research focus on Computational Intelligence from the State University of Maringá (UEM). Currently a PhD student at the Laboratory of Evolutionary Algorithms, University of Tsukuba, Japan, and a Research Assistant at the Machine Learning Research Team (MLRT) of the Artificial Intelligence Research Center (AIRC), National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan. Experienced in software development for the banking sector and operations research."
 list:
-  name: "PlaceHolder:"
+  name: "Interest:"
   items: 
-    - "Nothing"
+    - "Constrained Optmization"
+    - "Metaheuristics"
+    - "Landscape Analysis"
+    - "Multi-Agent System"
+    - "Bonsai"
+    - "Baseball"
 ---
