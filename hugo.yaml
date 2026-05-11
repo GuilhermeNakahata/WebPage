@@ -4,6 +4,8 @@ languageCode: "pt-br"
 titleCaseStyle: "none"
 theme: "neopost"
 defaultContentLanguage: en
+relativeURLs: true
+canonifyURLs: true
 
 languages:
   en:
