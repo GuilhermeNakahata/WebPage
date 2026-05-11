@@ -1,0 +1,30 @@
+title: "Guilherme Nakahata"
+baseURL: "https://neopost.neocities.org"
+languageCode: "pt-br"
+titleCaseStyle: "none"
+theme: "neopost"
+defaultContentLanguage: en
+
+languages:
+  en:
+    languageCode: en-us
+    contentDir: content/en
+    languageName: English
+    weight: 0
+    params:
+      sidebar:
+        tags:
+          enable: true
+          limit: 2
+          more-text: "more tags..."
+      read-more:
+        length-limit: 120
+        text:
+          more: "read more"
+          less: "read less"
+
+params:
+  theme: "meow"
+  favicon: "/favicon.ico"
+  posts-per-page: 1
+  toc-auto-numbering: false
