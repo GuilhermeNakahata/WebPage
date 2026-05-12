@@ -1,5 +1,5 @@
 title: "Guilherme Nakahata"
-baseURL: "https://guilhermenakahata.github.io/WebPage/"
+baseURL: "https://guilhermenakahata.github.io/"
 languageCode: "pt-br"
 titleCaseStyle: "none"
 theme: "neopost"
@@ -27,6 +27,6 @@ languages:
 
 params:
   theme: "meow"
-  favicon: "/favicon.ico"
+  favicon: ""
   posts-per-page: 1
   toc-auto-numbering: false

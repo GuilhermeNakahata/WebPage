@@ -10,9 +10,12 @@ table-of-contents: true
 toc-auto-numbering: true
 ---
 <!-- introduction -->
-This page contains a list of my academic publications and ongoing research work.
 
-Conference Papers
+# Research Summary
+
+My research focuses on highly constrained combinatorial optimization problems. I investigate how infeasible regions can provide structural information to guide search processes, combining fitness landscape analysis, metaheuristics, and multi-agent systems.
+
+# Conference Papers
 
 ## 2026
 
@@ -69,5 +72,36 @@ F. Diniz, J. Luis, **Guilherme Nakahata**
 *IEEE International Symposium on Multimedia (ISM)* — Naples, Italy, 2020
 
 [PDF](https://ieeexplore.ieee.org/document/9327917) · DOI: 10.1109/ISM.2020.00025 · [Repository](https://sites.google.com/view/bonsaistyleclassification)
+
+
+# Education
+
+- PhD in Computer Science, University of Tsukuba (2025–Present)
+
+- M.Sc. in Computer Science, State University of Maringá (2022)
+
+- B.Sc. in Computer Science, State University of Paraná (2019)
+
+# Academic & Research Experience
+
+- Research Assistant, AIST (2025–Present)
+
+- Teaching Assistant (CS Seminar), University of Tsukuba (2025–2026)
+
+- Research Student, University of Tsukuba (2024–2025)
+
+- Substitute Assistant Professor, UNESPAR (2023–2024)
+
+- Assistant Professor, Apucarana University (2023)
+
+# International Collaborations
+
+- Collaboration with Manna Team (Brazil - 2025) – Research project funded by Araucaria Foundation
+
+# Scholarships
+
+- MEXT Scholarship (Japan), 2024–Present
+
+- CAPES Scholarship (Brazil), 2020–2022
 
 <!-- rest of the content -->
