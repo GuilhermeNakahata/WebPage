@@ -1,5 +1,4 @@
 ---
 headless: true
 ---
-
-Brazilian Computer Scientist living in Japan
+Brazilian Computer Scientist

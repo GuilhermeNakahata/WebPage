@@ -1,7 +1,7 @@
 ---
 headless: true
 ---
-- PhD / Academic
+- PhD Student
 - Optimization
-- AI / Evolutionary Algorithms
+- Evolutionary Algorithms
 - Brazil / Japan

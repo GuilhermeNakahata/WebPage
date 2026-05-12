@@ -3,6 +3,9 @@ headless: true
 icon-use-flower-shape: false
 icon-path: "/images/Guilherme.jpeg"
 links:
+    - link: "https://guilhermenakahata.github.io/posts/resume/"
+      name: "Resume"
+
     - link: "https://guilhermenakahata.github.io/posts/publications/"
       name: "Publications"
 
