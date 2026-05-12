@@ -2,4 +2,4 @@
 headless: true
 ---
 
-PlaceHolder Bio
+Brazilian Computer Scientist living in Japan

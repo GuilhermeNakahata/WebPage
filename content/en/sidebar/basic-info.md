@@ -1,4 +1,7 @@
 ---
 headless: true
 ---
-- PlaceHolder: 12
+- PhD / Academic
+- Optimization
+- AI / Evolutionary Algorithms
+- Brazil / Japan
