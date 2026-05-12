@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guilherme Nakahata</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/WebPage/</link>
     <description>Recent content on Guilherme Nakahata</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 10:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 May 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/WebPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PlaceHolder</title>
-      <link>http://localhost:1313/posts/example/</link>
+      <title>Publications</title>
+      <link>http://localhost:1313/WebPage/posts/publications/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/posts/publications/</guid>
+      <description>&lt;p&gt;This page contains a list of my academic publications and ongoing research work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bons-AI: Agent-Based Model for Behavioral Analysis. International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</title>
+      <link>http://localhost:1313/WebPage/posts/example/</link>
       <pubDate>Sun, 11 May 2025 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/posts/example/</guid>
+      <guid>http://localhost:1313/WebPage/posts/example/</guid>
       <description>&lt;p&gt;PlaceHolder&lt;/p&gt;</description>
     </item>
   </channel>

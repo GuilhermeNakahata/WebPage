@@ -4,6 +4,9 @@ icon-use-flower-shape: false
 icon-path: "/Guilherme.jpeg"
 links:
     - link: "https://github.com/GuilhermeNkht"
+      name: "Publications"
+
+    - link: "https://github.com/GuilhermeNkht"
       name: "Github"
 
     - link: "mailto:guilhermenakahata@gmail.com"
