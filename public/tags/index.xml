@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Guilherme Nakahata</title>
+    <link>http://localhost:1313/WebPage/tags/</link>
+    <description>Recent content in tags on Guilherme Nakahata</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 May 2025 10:00:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/WebPage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>combinatorial-optimization</title>
+      <link>http://localhost:1313/WebPage/tags/combinatorial-optimization/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/combinatorial-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>computer-vision</title>
+      <link>http://localhost:1313/WebPage/tags/computer-vision/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>evolutionary-computation</title>
+      <link>http://localhost:1313/WebPage/tags/evolutionary-computation/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/evolutionary-computation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>machine-learning</title>
+      <link>http://localhost:1313/WebPage/tags/machine-learning/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>metaheuristics</title>
+      <link>http://localhost:1313/WebPage/tags/metaheuristics/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/metaheuristics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>multi-agent-systems</title>
+      <link>http://localhost:1313/WebPage/tags/multi-agent-systems/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/multi-agent-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>optimization</title>
+      <link>http://localhost:1313/WebPage/tags/optimization/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>publications</title>
+      <link>http://localhost:1313/WebPage/tags/publications/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>research</title>
+      <link>http://localhost:1313/WebPage/tags/research/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>swarm-intelligence</title>
+      <link>http://localhost:1313/WebPage/tags/swarm-intelligence/</link>
+      <pubDate>Mon, 12 May 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/WebPage/tags/swarm-intelligence/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
