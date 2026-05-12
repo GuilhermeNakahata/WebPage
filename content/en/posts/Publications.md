@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: "2025-05-12T10:00:00-03:00"
-tags: [research, publications, optimization, combinatorial-optimization, evolutionary-computation, metaheuristics, machine-learning, multi-agent-systems, swarm-intelligence, computer-vision]
+tags: [research, publications, optimization, combinatorial-optimization, evolutionary-computation, metaheuristics, machine-learning, multi-agent-systems]
 title-images: []
 ending-images: []
 author: "GuilhermeNakahata"
