@@ -55,7 +55,12 @@
             <ul>
             {{ with .Site.GetPage "section" "/sidebar/_index.md" }}
             {{ range .Params.links }}
-                <li><a href="{{ .link }}">{{ .name }}</a></li>
+                <li style="margin-bottom:10px;">
+  <a href="{{ .link }}" 
+     style="display:block; width:200px; margin:0 auto; text-align:center; padding:10px;">
+     {{ .name }}
+  </a>
+</li>
             {{ end }}
             {{ end }}
             </ul>
@@ -69,7 +74,9 @@
                 <img src="{{ .Params.image }}">
             </div>
             <div>
-            <h1>{{ .Params.title }}</h1>
+            <h1 style="text-align: center;">
+  		{{ .Params.title }}
+	    </h1>
             {{ range .Params.intro }}
                 <p>{{ . }}</p>
             {{ end }}
@@ -95,7 +102,7 @@
                 {{ partial "toc.html" $page }}
             </div>
             {{ end }}
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <h2 style="text-align:center; font-size: 40px;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             {{ $tags := $page.Params.tags }}
             tags:
             {{ range $index, $tag := .Params.tags }}
