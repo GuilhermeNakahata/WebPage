@@ -13,6 +13,6 @@
   post-outline-color: "#6EAAD6"
   post-outline-color2: "#CEEAFF"
   list-style:
-    image: "/baseball.png"
+    image: "/images/baseball.png"
     # type: "+ "
 
