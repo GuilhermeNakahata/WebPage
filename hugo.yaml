@@ -20,7 +20,7 @@ languages:
           limit: 2
           more-text: "more tags..."
       read-more:
-        length-limit: 120
+        length-limit: 5000
         text:
           more: "read more"
           less: "read less"

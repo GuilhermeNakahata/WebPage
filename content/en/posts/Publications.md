@@ -11,7 +11,6 @@ toc-auto-numbering: true
 ---
 <!-- introduction -->
 This page contains a list of my academic publications and ongoing research work.
-<!--more-->
 
 Conference Papers
 
@@ -70,4 +69,5 @@ F. Diniz, J. Luis, **Guilherme Nakahata**
 *IEEE International Symposium on Multimedia (ISM)* — Naples, Italy, 2020
 
 [PDF](https://ieeexplore.ieee.org/document/9327917) · DOI: 10.1109/ISM.2020.00025 · [Repository](https://sites.google.com/view/bonsaistyleclassification)
+
 <!-- rest of the content -->
