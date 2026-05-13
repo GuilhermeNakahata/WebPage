@@ -28,7 +28,7 @@ S. Satake, **Guilherme Nakahata**, C. Aranha
 
 [PDF](placeholder) · DOI: placeholder · [Repository](placeholder)
 
-### Decision-Making Policies under Stigmergic Communication:
+### Decision-Making Policies under Stigmergic Communication: A Pheromone-Based Multi-Agent Study
 A Pheromone-Based Multi-Agent Study
 S. Satake, **Guilherme Nakahata**, C. Aranha
 *IEEE World Congress on Computational Intelligence (WCCI-CEC)*, 2026
